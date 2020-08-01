@@ -1,0 +1,2 @@
+D:\FAST DATA\SEM-II\OOP\Cpp PROGRAMS (Console based)\Leraning_SFML\SFML4\x64\Debug\SFML4.exe
+D:\FAST DATA\SEM-II\OOP\Cpp PROGRAMS (Console based)\Leraning_SFML\SFML4\x64\Debug\SFML4.pdb
